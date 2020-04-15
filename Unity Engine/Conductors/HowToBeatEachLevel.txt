@@ -1,0 +1,11 @@
+Level 1:
+  right, down, right, right, right, up
+
+Level 2:
+  down, left, down, down, left, down
+
+Level 3:
+  right, down, down, right, up, right, down, right, left, up, up, left, down 
+
+Level 4:
+  right(x4), left(x2), down(x4), up(x3), down

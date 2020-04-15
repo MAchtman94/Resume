@@ -1,0 +1,8 @@
+aerobics exercise,883948,20.00
+dietitian session,598470,25.99
+internal medicine,759684,29.49
+kickboxing session,112233,22.00
+medical diagnosis,125785,29.99
+nutrition counseling,594873,29.99
+recipe modification,884775,25.50
+yoga and meditation,352689,19.99

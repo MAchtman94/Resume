@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="270.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ManagerGUI.ManagerMMController">
+   <children>
+      <Label prefHeight="91.0" prefWidth="600.0" style="-fx-background-color: #3FE0D0;" text="              Chocoholics Anonymous" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Times New Roman Bold" size="36.0" />
+         </font>
+      </Label>
+      <AnchorPane layoutX="12.0" layoutY="116.0" prefHeight="137.0" prefWidth="576.0" style="-fx-background-color: #3FE0D0;">
+         <children>
+            <Button layoutX="14.0" layoutY="36.0" mnemonicParsing="false" onAction="#MemberReportAction" prefHeight="80.0" prefWidth="159.0" text="Member Report">
+               <font>
+                  <Font name="Times New Roman" size="18.0" />
+               </font>
+            </Button>
+            <Button layoutX="209.0" layoutY="36.0" mnemonicParsing="false" onAction="#ProviderReportAction" prefHeight="80.0" prefWidth="159.0" text="Provider Report">
+               <font>
+                  <Font name="Times New Roman" size="18.0" />
+               </font>
+            </Button>
+            <Button layoutX="403.0" layoutY="36.0" mnemonicParsing="false" onAction="#ManagerReportAction" prefHeight="80.0" prefWidth="159.0" text="Manager Report">
+               <font>
+                  <Font name="Times New Roman" size="18.0" />
+               </font>
+            </Button>
+            <Label fx:id="ManagerLabel" layoutX="166.0" prefHeight="36.0" prefWidth="277.0">
+               <font>
+                  <Font name="Times New Roman" size="24.0" />
+               </font>
+            </Label>
+         </children>
+      </AnchorPane>
+      <Button layoutX="12.0" layoutY="14.0" mnemonicParsing="false" onAction="#BackToMainMenu" prefHeight="63.0" prefWidth="98.0" text="Back">
+         <font>
+            <Font name="Times New Roman" size="18.0" />
+         </font>
+      </Button>
+   </children>
+</AnchorPane>

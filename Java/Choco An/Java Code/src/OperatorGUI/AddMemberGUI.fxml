@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="533.0" prefWidth="347.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="OperatorGUI.AddMemberGUIController">
+   <children>
+      <Label prefHeight="91.0" prefWidth="347.0" style="-fx-background-color: #3FE0D0;" text="Chocoholics Anonymous" textAlignment="CENTER" wrapText="true">
+         <font>
+            <Font name="Times New Roman Bold" size="36.0" />
+         </font>
+      </Label>
+      <AnchorPane layoutX="18.0" layoutY="105.0" prefHeight="407.0" prefWidth="311.0" style="-fx-background-color: #3FE0D0;">
+         <children>
+            <Label layoutX="58.0" layoutY="19.0" text="Name:">
+               <font>
+                  <Font name="Times New Roman" size="12.0" />
+               </font></Label>
+            <TextField fx:id="NameText" layoutX="93.0" layoutY="15.0" promptText="Jim James" />
+            <Label layoutX="32.0" layoutY="71.0" text="ID Number:">
+               <font>
+                  <Font name="Times New Roman" size="12.0" />
+               </font>
+            </Label>
+            <TextField fx:id="IDText" editable="false" layoutX="93.0" layoutY="65.0" promptText="123456789" />
+            <Label layoutX="15.0" layoutY="119.0" text="Street Address:">
+               <font>
+                  <Font name="Times New Roman" size="12.0" />
+               </font></Label>
+            <TextField fx:id="StreetText" layoutX="94.0" layoutY="115.0" promptText="0000 Happy Street" />
+            <Label layoutX="70.0" layoutY="169.0" text="City:">
+               <font>
+                  <Font name="Times New Roman" size="12.0" />
+               </font></Label>
+            <TextField fx:id="CityText" layoutX="93.0" layoutY="165.0" promptText="Detroit" />
+            <Label layoutX="61.0" layoutY="219.0" text="State:">
+               <font>
+                  <Font name="Times New Roman" size="12.0" />
+               </font></Label>
+            <TextField fx:id="StateText" layoutX="93.0" layoutY="215.0" promptText="MI" />
+            <Label layoutX="40.0" layoutY="269.0" text="Zip Code:">
+               <font>
+                  <Font name="Times New Roman" size="12.0" />
+               </font></Label>
+            <TextField fx:id="ZipText" layoutX="93.0" layoutY="265.0" promptText="0000" />
+            <CheckBox fx:id="VerifyBox" layoutX="81.0" layoutY="318.0" mnemonicParsing="false" prefHeight="17.0" prefWidth="149.0" text="Credit Card Information" />
+            <Button layoutX="169.0" layoutY="352.0" mnemonicParsing="false" onAction="#handleCreateAction" text="Verify">
+               <font>
+                  <Font name="Times New Roman" size="12.0" />
+               </font></Button>
+            <Button layoutX="81.0" layoutY="352.0" mnemonicParsing="false" onAction="#handleBackAction" text="Back">
+               <font>
+                  <Font name="Times New Roman" size="12.0" />
+               </font></Button>
+            <Label fx:id="VerifyLabel" layoutX="81.0" layoutY="301.0" prefHeight="17.0" prefWidth="149.0">
+               <font>
+                  <Font name="Times New Roman" size="12.0" />
+               </font></Label>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

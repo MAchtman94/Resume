@@ -1,0 +1,10 @@
+SEVICES DELIVERED DURING WEEK 39
+
+Current date and time: 2019-09-23T19:26:29.983
+Date service was provided: 2019-09-23T19:26:29.983
+Provider number: 123456789
+Member number: 123456789
+Service Code: 112233
+Comment: 22.0
+
+Total Fee: 22.0

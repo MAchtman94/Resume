@@ -1,0 +1,156 @@
+PROVIDERS
+
+Provider Name: Becca Rebecca
+Provider Number: 001741997
+Provider Street Address: 7270 W. Brandywine Ave.
+Provider City: Beckley
+Provider State: WV
+Provider ZIP Code: 25801
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Luke Groundwalker
+Provider Number: 987412369
+Provider Street Address: 967 Vernon Dr.
+Provider City: Methuen
+Provider State: MA
+Provider ZIP Code: 01844
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Laura Lorrison
+Provider Number: 159759684
+Provider Street Address: 741 Mulberry Lane
+Provider City: Morristown
+Provider State: NJ
+Provider ZIP Code: 07960
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Jimmy John
+Provider Number: 055555879
+Provider Street Address: 871 Wrangler St.
+Provider City: Centreville
+Provider State: VA
+Provider ZIP Code: 20120
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: 
+Provider Number: 224822480
+Provider Street Address: 9586 S. Baker Ave.
+Provider City: Sioux Falls
+Provider State: SD
+Provider ZIP Code: 57103
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Ibrahim Linkdhome
+Provider Number: 444400444
+Provider Street Address: 59 S. Yukon Street
+Provider City:  Saint Louis
+Provider State: MO
+Provider ZIP Code: 63109
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Sky Kyler
+Provider Number: 458968745
+Provider Street Address: 37 Bridle St.
+Provider City: Cleveland
+Provider State: TN
+Provider ZIP Code: 37312
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Laurence Lovely
+Provider Number: 468957585
+Provider Street Address: 191 Old Lincoln Dr.
+Provider City: Morrisville
+Provider State: PA
+Provider ZIP Code: 19067
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Liam Worenski
+Provider Number: 478521596
+Provider Street Address: 7774 Carriage Street
+Provider City: Rockville
+Provider State: MD
+Provider ZIP Code: 20850
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Ronnie Ronalds
+Provider Number: 485859572
+Provider Street Address: 7789 Johnson Drive
+Provider City: Yorktown Heights
+Provider State: NY
+Provider ZIP Code: 10598
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Gary Vee
+Provider Number: 495856520
+Provider Street Address: 50 Amherst Street
+Provider City: Union City
+Provider State: NJ
+Provider ZIP Code: 07087
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Caitlyn Lee
+Provider Number: 415689588
+Provider Street Address: 98 Military Street
+Provider City: Monsey
+Provider State: NY
+Provider ZIP Code: 10952
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Euan Birdmington
+Provider Number: 648882471
+Provider Street Address: 9515 Corona Road
+Provider City: Munster
+Provider State: IN
+Provider ZIP Code: 46321
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+
+Provider Name: Zaidd Alsafip
+Provider Number: 409701231
+Provider Street Address: 1234 happy town 
+Provider City: happy town
+Provider State: HA
+Provider ZIP Code: 12345
+PROVIDER SERVICE SUMMARY FOR WEEK 38
+Total consultations: 000
+Total fee for week: 0.0
+
+

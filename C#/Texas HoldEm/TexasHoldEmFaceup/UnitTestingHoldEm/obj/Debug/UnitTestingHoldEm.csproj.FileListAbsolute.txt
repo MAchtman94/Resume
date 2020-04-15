@@ -1,0 +1,17 @@
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\UnitTestingHoldEm.dll
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\UnitTestingHoldEm.pdb
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\TexasHoldEmFaceup.exe
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\TexasHoldEmFaceup.pdb
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\TexasHoldEmFaceup.exe.config
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\obj\Debug\UnitTestingHoldEm.csprojAssemblyReference.cache
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\obj\Debug\UnitTestingHoldEm.csproj.CoreCompileInputs.cache
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\obj\Debug\UnitTestingHoldEm.csproj.CopyComplete
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\obj\Debug\UnitTestingHoldEm.dll
+C:\Users\achtm\OneDrive\Documents\GitHub\Teamup-For-CIS297\TexasHoldEmFaceup\UnitTestingHoldEm\obj\Debug\UnitTestingHoldEm.pdb

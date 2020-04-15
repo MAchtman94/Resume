@@ -1,0 +1,16 @@
+Kelly Fish,112358132,Validated,1114 Princess Drive,Sparksville,NY,10012
+Thor Almighty,589658740,Validated,226 Pineknoll Ave.,Mcminnville,TN,37110
+Capitano Mericano,001122334,Validated,45 Newcastle Road,Brookline,MA,02446
+Tim Hamburgen,030485987,Member suspended,176 Glen Creek Ave.,Chicago Heights,IL,60411
+Belly Burmington,957515350,Validated,7468 Wild Horse Court,Hamburh,NY,14075
+Donald Duckgton,821311585,Validated,8213 Court Court,Cambridge,MA,02138
+Hantonio Asparuh,141516147,Validated,8242 West Cross Ave.,Carol Stream,IL,60188
+Steiny Bobson,589632560,Validated,207 Gartner Lane,Granger,IN,46530
+Maxx Hristopher,002003895,Validated,53 Orange Lange,Crystal Lake,IL,60014
+Imag Drago,665667691,Validated,293 Gonzales St.,Monroeville,PA,15146
+Aaron Strongborn,332255484,Validated,38 St. Margarets Lane,Cherry Hill,NJ,08003
+Katara Kirgsten,483270500,Validated,7916 Cherry St.,Wakefield,MA,01880
+Sakura Haruno,759957758,Validated,61 E. Sunbeam Avenue,Wilmington,MA,01887
+Herry Fort,718293648,Validated,8795 NW.Truesel St.,Elk Grove Village,IL,60007
+Zaid Alsafi,078871875,Validated,6520 Asbury Park,Detroit,MI,48228
+Bob Ross,123456789,Validated,6520 Asbury Park,Detroit,Michigan,48228
