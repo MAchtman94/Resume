@@ -1,0 +1,34 @@
+.admin-form {
+  width: 300px;
+  margin: 0 auto;
+  display: flex;
+  flex-flow: column;
+}
+
+.admin-form label,
+input {
+  margin: 0.2em;
+}
+
+h1 {
+  text-align: center;
+}
+
+.admin-account {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.admin-account table {
+  width: 100%;
+  border-spacing: 0;
+}
+
+.admin-account table thead {
+  font-weight: bold;
+}
+
+.admin-account table thead tr td {
+  border-bottom: 1px solid black;
+  margin: 0;
+}
